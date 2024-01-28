@@ -12,8 +12,5 @@ public class Empwage {
         empwage=emphrs*rph;
         System.out.println("empwage:" +empwage);
 
-
-
-
     }
 }
