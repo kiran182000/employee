@@ -1,6 +1,6 @@
 public class Empwage {
     public static void main(String[]args){
-        int full_time=1;
+        int is_full_time=1;
         int rph=20;
         int emphrs=0;
         int empwage=0;
