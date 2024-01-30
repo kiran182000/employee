@@ -2,8 +2,8 @@ public class Empwage {
     public static final int is_full_time=2;
     public static final int is_part_time=1;
     public static final int rph=20;
-    public static final int no_of_working_days=2;
-    public static final int max_hrs_in_month=10;
+    public static final int no_of_working_days=20;
+    public static final int max_hrs_in_month=100;
 
     public static void main(String[]args){
         int emphrs=0,totalemphrs=0,totalworkingdays=0;
